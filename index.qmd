@@ -1,5 +1,5 @@
 ---
-title: "angelalarson.github.io"
+title: "Angela Larson"
 ---
 
 This is a Quarto website.
