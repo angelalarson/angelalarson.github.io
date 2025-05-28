@@ -1,5 +1,7 @@
 ---
 title: "Angela Larson"
+about: 
+  template: jolla
 ---
 
 This is a short blurb about myself :D.
