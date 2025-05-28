@@ -4,11 +4,6 @@ about:
   template: jolla
 ---
 
-This is a short blurb about myself :D.
-
-```{r}
-1 + 1
-```
-
+This is a short blurb about myself :D
 
 
