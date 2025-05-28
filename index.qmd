@@ -2,9 +2,7 @@
 title: "Angela Larson"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is a short blurb about myself :D.
 
 ```{r}
 1 + 1
