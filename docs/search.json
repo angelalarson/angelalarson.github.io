@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "csv.html",
+    "href": "csv.html",
+    "title": "csv",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "this is my csv"
   },
   {
     "objectID": "index.html",
@@ -14,10 +14,10 @@
     "text": "This is a short blurb about myself :D"
   },
   {
-    "objectID": "csv.html",
-    "href": "csv.html",
-    "title": "csv",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "this is my csv"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
