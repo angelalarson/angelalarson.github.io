@@ -10,6 +10,8 @@ website:
         text: Home
       - about.qmd
       - csv.qmd
+      - Projects.qmd
+      - Rugby.qmd
 
 format:
   html:

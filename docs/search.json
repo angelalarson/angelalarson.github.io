@@ -4,7 +4,7 @@
     "href": "csv.html",
     "title": "CSV",
     "section": "",
-    "text": "this is my csv"
+    "text": "this is my csv\nplease let this work."
   },
   {
     "objectID": "index.html",
@@ -14,10 +14,24 @@
     "text": "This is a short blurb about myself :D this will be edited."
   },
   {
+    "objectID": "Rugby.html",
+    "href": "Rugby.html",
+    "title": "Rugby Career",
+    "section": "",
+    "text": "this is my rugby career page"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Project",
+    "section": "",
+    "text": "this is my project page"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "About this site\nplease let this work."
   }
 ]
