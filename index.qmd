@@ -15,12 +15,15 @@ about:
       href: www.linkedin.com/in/angela-larson-a39659240
       icon: "linkedin"
       target: _blank
-    - text: Email
-      href: mailto::angelalar1715@gmail.com
-      icon: "envelope"
-      target: _blank
 ---
+## About Me!
 
-This is a short blurb about myself :D
-this will be edited.
+I am a fourth-year undergraduate at UC Santa Barbara majoring in Earth Science with an emphasis in Climate and Environment and a Field-based Undergraduate Engagement through Research, Teaching, and Education (FUERTE) fellow. 
 
+## Education
+
+University of California, Santa Barbara – Earth Science, emphasis in Climate and Environment, B.S. - 2025
+
+Tulane University - Earth and Environmental Sciences PhD (starting Fall 2025)
+
+## Research
