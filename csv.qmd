@@ -1,8 +1,16 @@
 ---
-title: "Research and Experience"
+title: "Experience"
 format: html
 ---
 
-this is my csv
+# Experience
 
-please let this work.
+## Current Research
+OAE
+
+## Previous Research
+FUERTE
+Adam Lambert
+
+## Other
+here is where i will insert link to current CV

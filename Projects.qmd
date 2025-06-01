@@ -1,6 +1,17 @@
 ---
-title: "Senior Thesis"
+title: "Projects"
 format: html
 ---
 
-this is my project page
+# Projects
+
+## Senior Thesis
+### Brucite-Inspired Ocean Alkalinity Enhancement: Chalking up the growth and calcification of Emiliania huxleyi
+[short description]
+[provide docx link]
+
+
+## FUERTE Mini Project
+### insert name of project
+[short description]
+[provide link to slideshow]
