@@ -11,15 +11,15 @@ website:
       - about.qmd
       - csv.qmd
       - Projects.qmd
-      - Rugby.qmd
+      - research.qmd
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
-    css: styles.css
+      - styles.scss
+    mainfont: Sen
     toc: true
+    page-layout: full
 
 editor: visual
 

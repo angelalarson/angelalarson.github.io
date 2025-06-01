@@ -1,5 +1,5 @@
 ---
-title: "Project"
+title: "Senior Thesis"
 format: html
 ---
 
