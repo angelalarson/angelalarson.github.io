@@ -6,9 +6,8 @@ format: html
 ## Current Research
 OAE
 
-## Previous Research
-FUERTE
-Adam Lambert
+## Past Research
+FUERTE, adam lambert
 
 ## Other
 here is where i will insert link to current CV

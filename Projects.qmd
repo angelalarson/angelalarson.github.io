@@ -3,8 +3,7 @@ title: "Senior Thesis"
 format: html
 ---
 
-## Senior Thesis
-### Brucite-Inspired Ocean Alkalinity Enhancement: Chalking up the growth and calcification of Emiliania huxleyi
+## Brucite-Inspired Ocean Alkalinity Enhancement: Chalking up the growth and calcification of Emiliania huxleyi
 #### Abstract
 Carbon dioxide removal (CDR) has become an increasingly essential area of research in the effort to limit global warming to 2°C above pre-industrial temperature levels–a goal set by the 2015 Paris Agreement. Ocean alkalinity enhancement (OAE) is a marine CDR method that aims to capture carbon dioxide (CO[2]) by adding alkali to the surface ocean. Alkalinity addition converts aqueous CO[2] to stable bicarbonate and carbonate ions, causing a surface-ocean CO[2] deficit to be equilibrated by the in-gassing of atmospheric CO[2]. OAE shows significant potential for carbon removal, yet critical knowledge gaps persist in understanding the response of marine organisms to the rapid pH increase from alkalinity addition. In a study, we conducted a laboratory mesocosm experiment investigating the impacts of OAE on calcification in Emiliania huxleyi, a calcareous marine phytoplankton, using a method that mimics brucite dissolution (brucite-inspired alkalinity addition). The experiment was conducted for nine days with four sampling points, and each carboy was bubbled with 420 ppm CO[2] to simulate ocean-atmosphere gas exchange. The treatments with alkalinity addition of ~700 umol kg^-1^ resulted in a total alkalinity concentration of ~2900 umol kg^-1^. Our results aim to quantify the effects of the brucite treatment on coccolithophore growth and calcification, driving future research on OAE in marine ecosystems.
 
