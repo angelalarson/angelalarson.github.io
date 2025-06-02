@@ -4,10 +4,12 @@ format: html
 ---
 
 ## Current Research
-OAE
+I have spent the past two years (2023-2025) as an undergraduate researcher in the Iglesias-Rodriguez lab at UC Santa Barbara under Dr. Debora Iglesias-Rodriguez, studying Ocean Alkalinity Enhancement and its potential effect on marine organisms. Currently, I am finishing up a project assessing the growth and calcification of *Emiliania huxleyi* under a brucite-inspired ocean alkalinity enhancement (see *Senior Thesis* page).
+
+Looking ahead to the future, I will be joining the Sclero Lab at Tulane University to begin my PhD under Dr. Tom DeCarlo in Fall 2025 where I will continue researching marine calcifiers and climate change, but shift my focus slightly to include coral reefs and their sensitivity to marine heatwaves.
 
 ## Past Research
-FUERTE, adam lambert
+Previously, I have served as an undergraduate researcher under Dr. Adam Lambert assisting in the restoration of a riparian ecosystem along the a section of the Sespe River in Fillmore, CA. Additionally, I completed a week-long mini project assessing the affect of a storm on the physical and chemical characteristics of high elevation and low elevation streams during a research trip with FUERTE. 
 
-## Other
-here is where i will insert link to current CV
+
+#### Curious about other work I've done? Here's a link to my CV (updated June 2025).

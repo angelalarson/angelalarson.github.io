@@ -4,28 +4,21 @@
     "href": "csv.html",
     "title": "Experience",
     "section": "",
-    "text": "OAE"
+    "text": "I have spent the past two years (2023-2025) as an undergraduate researcher in the Iglesias-Rodriguez lab at UC Santa Barbara under Dr. Debora Iglesias-Rodriguez, studying Ocean Alkalinity Enhancement and its potential effect on marine organisms. Currently, I am finishing up a project assessing the growth and calcification of Emiliania huxleyi under a brucite-inspired ocean alkalinity enhancement (see Senior Thesis page).\nLooking ahead to the future, I will be joining the Sclero Lab at Tulane University to begin my PhD under Dr. Tom DeCarlo in Fall 2025 where I will continue researching marine calcifiers and climate change, but shift my focus slightly to include coral reefs and their sensitivity to marine heatwaves."
   },
   {
     "objectID": "csv.html#current-research",
     "href": "csv.html#current-research",
     "title": "Experience",
     "section": "",
-    "text": "OAE"
+    "text": "I have spent the past two years (2023-2025) as an undergraduate researcher in the Iglesias-Rodriguez lab at UC Santa Barbara under Dr. Debora Iglesias-Rodriguez, studying Ocean Alkalinity Enhancement and its potential effect on marine organisms. Currently, I am finishing up a project assessing the growth and calcification of Emiliania huxleyi under a brucite-inspired ocean alkalinity enhancement (see Senior Thesis page).\nLooking ahead to the future, I will be joining the Sclero Lab at Tulane University to begin my PhD under Dr. Tom DeCarlo in Fall 2025 where I will continue researching marine calcifiers and climate change, but shift my focus slightly to include coral reefs and their sensitivity to marine heatwaves."
   },
   {
     "objectID": "csv.html#past-research",
     "href": "csv.html#past-research",
     "title": "Experience",
     "section": "Past Research",
-    "text": "Past Research\nFUERTE, adam lambert"
-  },
-  {
-    "objectID": "csv.html#other",
-    "href": "csv.html#other",
-    "title": "Experience",
-    "section": "Other",
-    "text": "Other\nhere is where i will insert link to current CV"
+    "text": "Past Research\nPreviously, I have served as an undergraduate researcher under Dr. Adam Lambert assisting in the restoration of a riparian ecosystem along the a section of the Sespe River in Fillmore, CA. Additionally, I completed a week-long mini project assessing the affect of a storm on the physical and chemical characteristics of high elevation and low elevation streams during a research trip with FUERTE.\n\nCurious about other work I’ve done? Here’s a link to my CV (updated June 2025)."
   },
   {
     "objectID": "index.html",
@@ -49,25 +42,39 @@
     "text": "Education\nUniversity of California, Santa Barbara – Earth Science, emphasis in Climate and Environment, B.S. - 2025\nTulane University - Earth and Environmental Sciences PhD (starting Fall 2025) as a Lousiana Board of Regents/SREB Doctoral Fellow"
   },
   {
+    "objectID": "Rugby.html",
+    "href": "Rugby.html",
+    "title": "Fieldwork",
+    "section": "",
+    "text": "Through FUERTE and local Plumes and Blooms cruises with the Iglesias-Rodriguez lab at UC Santa Barbara, I have had the amazing opportunity to attend day cruises and collect nutrient, carbonate chemistry, and environmental DNA samples using a CTD rosette."
+  },
+  {
+    "objectID": "Rugby.html#oceanographic",
+    "href": "Rugby.html#oceanographic",
+    "title": "Fieldwork",
+    "section": "",
+    "text": "Through FUERTE and local Plumes and Blooms cruises with the Iglesias-Rodriguez lab at UC Santa Barbara, I have had the amazing opportunity to attend day cruises and collect nutrient, carbonate chemistry, and environmental DNA samples using a CTD rosette."
+  },
+  {
     "objectID": "Rugby.html#geologic",
     "href": "Rugby.html#geologic",
     "title": "Fieldwork",
     "section": "Geologic",
-    "text": "Geologic\nMy enrollment in EARTH 104A - Introduction to Geologic Field Methods culminated in a quarter long Santa Barbara Field Guide project, mapping the local structural and stratigraphic Santa Barbara geology. Maps were overlain using local Dibblee maps and QGIS in addition to Inkscape for visual editing. In situ measurements were taken when possible, field notebook images were provided as supporting evidence.\n[insert link]"
+    "text": "Geologic\nMy enrollment in EARTH 104A - Introduction to Geologic Field Methods culminated in a quarter long Santa Barbara Field Guide project, mapping the local structural and stratigraphic Santa Barbara geology. Maps were overlain with local Dibblee maps using QGIS and Inkscape for visual editing. In situ measurements were taken when possible, field notebook images were provided as supporting evidence.\nLink to field guide"
   },
   {
     "objectID": "Projects.html",
     "href": "Projects.html",
     "title": "Senior Thesis",
     "section": "",
-    "text": "Carbon dioxide removal (CDR) has become an increasingly essential area of research in the effort to limit global warming to 2°C above pre-industrial temperature levels–a goal set by the 2015 Paris Agreement. Ocean alkalinity enhancement (OAE) is a marine CDR method that aims to capture carbon dioxide (CO[2]) by adding alkali to the surface ocean. Alkalinity addition converts aqueous CO[2] to stable bicarbonate and carbonate ions, causing a surface-ocean CO[2] deficit to be equilibrated by the in-gassing of atmospheric CO[2]. OAE shows significant potential for carbon removal, yet critical knowledge gaps persist in understanding the response of marine organisms to the rapid pH increase from alkalinity addition. In a study, we conducted a laboratory mesocosm experiment investigating the impacts of OAE on calcification in Emiliania huxleyi, a calcareous marine phytoplankton, using a method that mimics brucite dissolution (brucite-inspired alkalinity addition). The experiment was conducted for nine days with four sampling points, and each carboy was bubbled with 420 ppm CO[2] to simulate ocean-atmosphere gas exchange. The treatments with alkalinity addition of ~700 umol kg-1 resulted in a total alkalinity concentration of ~2900 umol kg-1. Our results aim to quantify the effects of the brucite treatment on coccolithophore growth and calcification, driving future research on OAE in marine ecosystems.\n[provide code]"
+    "text": "Carbon dioxide removal (CDR) has become an increasingly essential area of research in the effort to limit global warming to 2°C above pre-industrial temperature levels–a goal set by the 2015 Paris Agreement. Ocean alkalinity enhancement (OAE) is a marine CDR method that aims to capture carbon dioxide (CO2) by adding alkali to the surface ocean. Alkalinity addition converts aqueous CO2 to stable bicarbonate and carbonate ions, causing a surface-ocean CO2 deficit to be equilibrated by the in-gassing of atmospheric CO2. OAE shows significant potential for carbon removal, yet critical knowledge gaps persist in understanding the response of marine organisms to the rapid pH increase from alkalinity addition. In a study, we conducted a laboratory mesocosm experiment investigating the impacts of OAE on calcification in Emiliania huxleyi, a calcareous marine phytoplankton, using a method that mimics brucite dissolution (brucite-inspired alkalinity addition). The experiment was conducted for nine days with four sampling points, and each carboy was bubbled with 420 ppm CO2 to simulate ocean-atmosphere gas exchange. The treatments with alkalinity addition of ~700 umol kg-1 resulted in a total alkalinity concentration of ~2900 umol kg-1. Our results aim to quantify the effects of the brucite treatment on coccolithophore growth and calcification, driving future research on OAE in marine ecosystems."
   },
   {
     "objectID": "Projects.html#brucite-inspired-ocean-alkalinity-enhancement-chalking-up-the-growth-and-calcification-of-emiliania-huxleyi",
     "href": "Projects.html#brucite-inspired-ocean-alkalinity-enhancement-chalking-up-the-growth-and-calcification-of-emiliania-huxleyi",
     "title": "Senior Thesis",
     "section": "",
-    "text": "Carbon dioxide removal (CDR) has become an increasingly essential area of research in the effort to limit global warming to 2°C above pre-industrial temperature levels–a goal set by the 2015 Paris Agreement. Ocean alkalinity enhancement (OAE) is a marine CDR method that aims to capture carbon dioxide (CO[2]) by adding alkali to the surface ocean. Alkalinity addition converts aqueous CO[2] to stable bicarbonate and carbonate ions, causing a surface-ocean CO[2] deficit to be equilibrated by the in-gassing of atmospheric CO[2]. OAE shows significant potential for carbon removal, yet critical knowledge gaps persist in understanding the response of marine organisms to the rapid pH increase from alkalinity addition. In a study, we conducted a laboratory mesocosm experiment investigating the impacts of OAE on calcification in Emiliania huxleyi, a calcareous marine phytoplankton, using a method that mimics brucite dissolution (brucite-inspired alkalinity addition). The experiment was conducted for nine days with four sampling points, and each carboy was bubbled with 420 ppm CO[2] to simulate ocean-atmosphere gas exchange. The treatments with alkalinity addition of ~700 umol kg-1 resulted in a total alkalinity concentration of ~2900 umol kg-1. Our results aim to quantify the effects of the brucite treatment on coccolithophore growth and calcification, driving future research on OAE in marine ecosystems.\n[provide code]"
+    "text": "Carbon dioxide removal (CDR) has become an increasingly essential area of research in the effort to limit global warming to 2°C above pre-industrial temperature levels–a goal set by the 2015 Paris Agreement. Ocean alkalinity enhancement (OAE) is a marine CDR method that aims to capture carbon dioxide (CO2) by adding alkali to the surface ocean. Alkalinity addition converts aqueous CO2 to stable bicarbonate and carbonate ions, causing a surface-ocean CO2 deficit to be equilibrated by the in-gassing of atmospheric CO2. OAE shows significant potential for carbon removal, yet critical knowledge gaps persist in understanding the response of marine organisms to the rapid pH increase from alkalinity addition. In a study, we conducted a laboratory mesocosm experiment investigating the impacts of OAE on calcification in Emiliania huxleyi, a calcareous marine phytoplankton, using a method that mimics brucite dissolution (brucite-inspired alkalinity addition). The experiment was conducted for nine days with four sampling points, and each carboy was bubbled with 420 ppm CO2 to simulate ocean-atmosphere gas exchange. The treatments with alkalinity addition of ~700 umol kg-1 resulted in a total alkalinity concentration of ~2900 umol kg-1. Our results aim to quantify the effects of the brucite treatment on coccolithophore growth and calcification, driving future research on OAE in marine ecosystems."
   },
   {
     "objectID": "about.html",
