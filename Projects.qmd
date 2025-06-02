@@ -1,15 +1,11 @@
 ---
-title: "Projects"
+title: "Senior Thesis"
 format: html
 ---
 
 ## Senior Thesis
-### Brucite-Inspired Ocean Alkalinity Enhancement: Chalking up the growth and calcification of Emiliania huxleyi
+#### Brucite-Inspired Ocean Alkalinity Enhancement: Chalking up the growth and calcification of Emiliania huxleyi
 [short description]
 [provide docx link]
 
-
-## FUERTE Mini Project
-### insert name of project
-[short description]
-[provide link to slideshow]
+[provide code]
