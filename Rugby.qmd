@@ -3,4 +3,9 @@ title: "Fieldwork"
 format: html
 ---
 
-this is my rugby career page
+# Fieldwork
+
+## Oceanographic
+
+## Geologic
+
