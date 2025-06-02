@@ -4,9 +4,13 @@ format: html
 ---
 
 ## Oceanographic
-Through FUERTE and local Plumes and Blooms cruises with the Iglesias-Rodriguez lab at UC Santa Barbara, I have had the amazing opportunity to attend day cruises and collect nutrient, carbonate chemistry, and environmental DNA samples using a CTD rosette.
+Through FUERTE and local Plumes and Blooms cruises with the Iglesias-Rodriguez lab at UC Santa Barbara, I have had the amazing opportunity to attend day cruises and collect nutrient, carbonate chemistry, and environmental DNA samples using a CTD rosette. Additionally, I was granted an opportunity to serve as an oceanographic field mentor for a day cruise to lead undergraduates through collection of seawater using a 12 L Niskin bottle and subsequent pH analysis in lab.
+
+[insert images]
 
 ## Geologic
-My enrollment in EARTH 104A - Introduction to Geologic Field Methods culminated in a quarter long Santa Barbara Field Guide project, mapping the local structural and stratigraphic Santa Barbara geology. Maps were overlain with local Dibblee maps using QGIS and Inkscape for visual editing. In situ measurements were taken when possible, field notebook images were provided as supporting evidence. 
+My enrollment in EARTH 104A - Introduction to Geologic Field Methods culminated in a quarter long Santa Barbara Field Guide project, mapping the local structural and stratigraphic Santa Barbara geology over the course of six lab periods. Maps were overlain with local Dibblee maps using QGIS and Inkscape for visual editing. Strike and dip measurements were taken using both a Brunton compass and Clino app for IPhone. A hand lens and geologic field notebook was used for mineral identification and grain size determination. Figures and images developed in Inkscape were adapted from *in situ* measurements.
 
 Link to field guide
+
+[insert images]
