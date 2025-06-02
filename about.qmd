@@ -1,8 +1,6 @@
 ---
-title: "About"
+title: "About Me"
 ---
-
-# About Me
 
 ## Research
 Here is where I will tlak about current reasearch of OAE, and upcoming movement to Tulane.

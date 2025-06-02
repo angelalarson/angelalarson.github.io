@@ -3,8 +3,6 @@ title: "Fieldwork"
 format: html
 ---
 
-# Fieldwork
-
 ## Oceanographic
 
 ## Geologic

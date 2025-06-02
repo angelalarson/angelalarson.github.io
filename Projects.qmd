@@ -3,8 +3,6 @@ title: "Projects"
 format: html
 ---
 
-# Projects
-
 ## Senior Thesis
 ### Brucite-Inspired Ocean Alkalinity Enhancement: Chalking up the growth and calcification of Emiliania huxleyi
 [short description]

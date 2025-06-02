@@ -2,9 +2,30 @@
   {
     "objectID": "csv.html",
     "href": "csv.html",
-    "title": "Research and Experience",
+    "title": "Experience",
     "section": "",
-    "text": "this is my csv\nplease let this work."
+    "text": "OAE\n\n\n\nFUERTE Adam Lambert\n\n\n\nhere is where i will insert link to current CV"
+  },
+  {
+    "objectID": "csv.html#current-research",
+    "href": "csv.html#current-research",
+    "title": "Experience",
+    "section": "",
+    "text": "OAE"
+  },
+  {
+    "objectID": "csv.html#previous-research",
+    "href": "csv.html#previous-research",
+    "title": "Experience",
+    "section": "",
+    "text": "FUERTE Adam Lambert"
+  },
+  {
+    "objectID": "csv.html#other",
+    "href": "csv.html#other",
+    "title": "Experience",
+    "section": "",
+    "text": "here is where i will insert link to current CV"
   },
   {
     "objectID": "index.html",
@@ -28,24 +49,52 @@
     "text": "Education\nUniversity of California, Santa Barbara – Earth Science, emphasis in Climate and Environment, B.S. - 2025\nTulane University - Earth and Environmental Sciences PhD (starting Fall 2025)"
   },
   {
-    "objectID": "Rugby.html",
-    "href": "Rugby.html",
-    "title": "Rugby Career",
-    "section": "",
-    "text": "this is my rugby career page"
-  },
-  {
     "objectID": "Projects.html",
     "href": "Projects.html",
-    "title": "Senior Thesis",
+    "title": "Projects",
     "section": "",
-    "text": "this is my project page"
+    "text": "[short description] [provide docx link]\n\n\n\n\n\n\n[short description] [provide link to slideshow]"
+  },
+  {
+    "objectID": "Projects.html#senior-thesis",
+    "href": "Projects.html#senior-thesis",
+    "title": "Projects",
+    "section": "",
+    "text": "[short description] [provide docx link]"
+  },
+  {
+    "objectID": "Projects.html#fuerte-mini-project",
+    "href": "Projects.html#fuerte-mini-project",
+    "title": "Projects",
+    "section": "",
+    "text": "[short description] [provide link to slideshow]"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\nplease let this work."
+    "text": "Here is where I will tlak about current reasearch of OAE, and upcoming movement to Tulane.\n\n\n\nHere is where I will talk about FUERTE mentorship and 114.\n\n\n\nHere is where I will talk about my sport &lt;3 and my experience with injuries and U23"
+  },
+  {
+    "objectID": "about.html#research",
+    "href": "about.html#research",
+    "title": "About",
+    "section": "",
+    "text": "Here is where I will tlak about current reasearch of OAE, and upcoming movement to Tulane."
+  },
+  {
+    "objectID": "about.html#teaching",
+    "href": "about.html#teaching",
+    "title": "About",
+    "section": "",
+    "text": "Here is where I will talk about FUERTE mentorship and 114."
+  },
+  {
+    "objectID": "about.html#rugby",
+    "href": "about.html#rugby",
+    "title": "About",
+    "section": "",
+    "text": "Here is where I will talk about my sport &lt;3 and my experience with injuries and U23"
   }
 ]
