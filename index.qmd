@@ -11,10 +11,6 @@ about:
       href: https://github.com/angelalarson
       icon: "github"
       target: _blank
-    - text: LinkedIn
-      href: www.linkedin.com/in/angela-larson-a39659240
-      icon: "linkedin"
-      target: _blank
 ---
 ## About Me!
 
