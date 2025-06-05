@@ -3,8 +3,46 @@ title: "Senior Thesis"
 format: html
 ---
 
-## Brucite-Inspired Ocean Alkalinity Enhancement: Chalking up the growth and calcification of Emiliania huxleyi
+## Brucite-Inspired Ocean Alkalinity Enhancement: Chalking up the growth and calcification of *Emiliania huxleyi*
 ### Abstract
-Carbon dioxide removal (CDR) has become an increasingly essential area of research in the effort to limit global warming to 2°C above pre-industrial temperature levels–a goal set by the 2015 Paris Agreement. Ocean alkalinity enhancement (OAE) is a marine CDR method that aims to capture carbon dioxide (CO~2~) by adding alkali to the surface ocean. Alkalinity addition converts aqueous CO~2~ to stable bicarbonate and carbonate ions, causing a surface-ocean CO~2~ deficit to be equilibrated by the in-gassing of atmospheric CO~2~. OAE shows significant potential for carbon removal, yet critical knowledge gaps persist in understanding the response of marine organisms to the rapid pH increase from alkalinity addition. In a study, we conducted a laboratory mesocosm experiment investigating the impacts of OAE on calcification in *Emiliania huxleyi*, a calcareous marine phytoplankton, using a method that mimics brucite dissolution (brucite-inspired alkalinity addition). The experiment was conducted for nine days with four sampling points, and each carboy was bubbled with 420 ppm CO~2~ to simulate ocean-atmosphere gas exchange. The treatments with alkalinity addition of ~700 umol kg^-1^ resulted in a total alkalinity concentration of ~2900 umol kg^-1^. Our results aim to quantify the effects of the brucite treatment on coccolithophore growth and calcification, driving future research on OAE in marine ecosystems.
+Carbon dioxide removal (CDR) has become an increasingly essential area of research in the effort to limit global warming to 2°C above pre-industrial temperature levels–a goal set by the 2015 Paris Agreement. Ocean Alkalinity Enhancement (OAE) is a marine CDR method that aims to capture carbon dioxide (CO~2~) by adding alkaline solutions to the surface ocean. Alkalinity additions convert aqueous CO~2~ to stable bicarbonate and carbonate ions, causing a surface-ocean CO~2~ deficit to be equilibrated by the in-gassing of atmospheric CO~2~. OAE shows significant potential for carbon removal, yet critical knowledge gaps persist in understanding the response of marine organisms to the rapid shift in alkalinity and pH from added alkalinity. In a study, we conducted a laboratory mesocosm experiment investigating the impacts of a brucite-inspired alkalinity addition (BIAA) for OAE on the growth and calcification in *Emiliania huxleyi*, a calcareous marine phytoplankton. The treatment used MgCl~2~ * 6H~2~O and NaOH to raise alkalinity by ~690 umol kg^-1^,  resulting in a total alkalinity of ~2900 umol kg^-1^. Our results suggest BIAA enhanced the growth rates of E. huxleyi, suggesting a possible stimulatory effect of increased magnesium concentrations within seawater. Calcification rates, measured as cellular particulate inorganic carbon (PIC), remained stable across treatments; however, the PIC:POC (particulate organic carbon) ratio was significantly higher in BIAA. This is likely a result of reduced POC production within BIAA compared to the Control. Furthermore, the presence of an orange precipitate coincided with the removal of dissolved inorganic phosphate indicates potential nutrient removal in our carboys. Our results further our understanding of the alkaline-specific impacts of a magnesium-rich alkalinity addition on the biogeochemical and physiological processes of *E. huxleyi*.
 
-### Code
+#### Find my complete senior honors thesis [here](/images/include link.pdf)
+
+## Thesis Code and Data Visualization
+The below visualizations represent the physiological data collected during the Fall 2024 experiment and analyzed in Winter 2025 for my thesis document. For a full scope of the data and visualizations, view the link in the section above.
+
+### a. Particulate Inorganic Carbon (PIC)
+#### Code
+
+#### Visualization
+
+#### Figure caption
+
+### b. Particulate Organic Carbon (POC)
+#### Code
+
+#### Visualization
+
+#### Figure caption
+
+### c. Particulate Organic Nitrogen (PON)
+#### Code
+
+#### Visualization
+
+#### Figure caption
+
+### d. PIC:POC
+#### Code
+
+#### Visualization
+
+#### Figure caption
+
+### e. POC:PON
+#### Code
+
+#### Visualization
+
+#### Figure caption

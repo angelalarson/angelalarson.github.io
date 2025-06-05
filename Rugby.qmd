@@ -11,6 +11,6 @@ Through FUERTE and local Plumes and Blooms cruises with the Iglesias-Rodriguez l
 ## Geologic
 My enrollment in EARTH 104A - Field Methods in Geology culminated in a quarter long Santa Barbara Field Guide project, mapping the local structural and stratigraphic Santa Barbara geology over the course of six lab periods. Maps were overlain with local Dibblee maps using QGIS and Inkscape for visual editing. Strike and dip measurements were taken using both a Brunton compass and Clino app for IPhone. A hand lens and geologic field notebook was used for mineral identification and grain size determination. Figures and images developed in Inkscape were adapted from *in situ* measurements.
 
-Link to field guide
+#### Interested in reading my Santa Barbara Field Guide? Check out the full project [here](images/104a_guide.pdf)
 
 [insert images]

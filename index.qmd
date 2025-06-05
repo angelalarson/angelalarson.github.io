@@ -1,6 +1,6 @@
 ---
 title: "Angela Larson"
-image: images/headshot-02.JPG
+image: images/front.image.png
 toc: false
 about:
   template: trestles
