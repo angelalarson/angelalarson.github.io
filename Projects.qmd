@@ -81,4 +81,4 @@ ggplot(data = TA_summ,
   theme_cowplot() +
   theme(legend.title = element_blank())
 ```
-This code plotted my data.
+This visualized my TA plot. Similar code was written for all carbonate chemistry parameters in addition to dissolved inorganic nutrient visualizations in my thesis. The biogeochemical and physiological parameters were visualized similar, but used boxplots to represent the spread of data instead of line graphs. 
