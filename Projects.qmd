@@ -3,7 +3,7 @@ title: "Senior Thesis"
 format: html
 ---
 
-## Brucite-Inspired Ocean Alkalinity Enhancement: Chalking up the growth and calcification of *Emiliania huxleyi*
+## Brucite-Inspired Ocean Alkalinity Enhancement: Chalking up the Growth and Calcification of *Emiliania huxleyi*
 ### Abstract
 Carbon dioxide removal (CDR) has become an increasingly essential area of research in the effort to limit global warming to 2°C above pre-industrial temperature levels–a goal set by the 2015 Paris Agreement. Ocean Alkalinity Enhancement (OAE) is a marine CDR method that aims to capture carbon dioxide (CO~2~) by adding alkaline solutions to the surface ocean. Alkalinity additions convert aqueous CO~2~ to stable bicarbonate and carbonate ions, causing a surface-ocean CO~2~ deficit to be equilibrated by the in-gassing of atmospheric CO~2~. OAE shows significant potential for carbon removal, yet critical knowledge gaps persist in understanding the response of marine organisms to the rapid shift in alkalinity and pH from added alkalinity. In a study, we conducted a laboratory mesocosm experiment investigating the impacts of a brucite-inspired alkalinity addition (BIAA) for OAE on the growth and calcification in *Emiliania huxleyi*, a calcareous marine phytoplankton. The treatment used MgCl~2~ * 6H~2~O and NaOH to raise alkalinity by ~690 umol kg^-1^,  resulting in a total alkalinity of ~2900 umol kg^-1^. Our results suggest BIAA enhanced the growth rates of E. huxleyi, suggesting a possible stimulatory effect of increased magnesium concentrations within seawater. Calcification rates, measured as cellular particulate inorganic carbon (PIC), remained stable across treatments; however, the PIC:POC (particulate organic carbon) ratio was significantly higher in BIAA. This is likely a result of reduced POC production within BIAA compared to the Control. Furthermore, the presence of an orange precipitate coincided with the removal of dissolved inorganic phosphate indicates potential nutrient removal in our carboys. Our results further our understanding of the alkaline-specific impacts of a magnesium-rich alkalinity addition on the biogeochemical and physiological processes of *E. huxleyi*.
 
@@ -18,10 +18,6 @@ The below visualization represents only a small portion of the code written for 
 library (tidyverse)
 library (janitor)
 library (cowplot)
-library(ggh4x)
-library(viridis)
-library(viridisLite)
-library(ggpubr)
 
 carb_chem <- read_csv("carb_chem_data.csv") %>% # reading in csv
   clean_names()
