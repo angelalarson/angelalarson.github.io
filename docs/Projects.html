@@ -20,6 +20,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -127,14 +161,7 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#abstract" id="toc-abstract" class="nav-link" data-scroll-target="#abstract">Abstract</a></li>
   </ul></li>
-  <li><a href="#thesis-code-and-data-visualization" id="toc-thesis-code-and-data-visualization" class="nav-link" data-scroll-target="#thesis-code-and-data-visualization">Thesis Code and Data Visualization</a>
-  <ul class="collapse">
-  <li><a href="#a.-particulate-inorganic-carbon-pic" id="toc-a.-particulate-inorganic-carbon-pic" class="nav-link" data-scroll-target="#a.-particulate-inorganic-carbon-pic">a. Particulate Inorganic Carbon (PIC)</a></li>
-  <li><a href="#b.-particulate-organic-carbon-poc" id="toc-b.-particulate-organic-carbon-poc" class="nav-link" data-scroll-target="#b.-particulate-organic-carbon-poc">b. Particulate Organic Carbon (POC)</a></li>
-  <li><a href="#c.-particulate-organic-nitrogen-pon" id="toc-c.-particulate-organic-nitrogen-pon" class="nav-link" data-scroll-target="#c.-particulate-organic-nitrogen-pon">c.&nbsp;Particulate Organic Nitrogen (PON)</a></li>
-  <li><a href="#d.-picpoc" id="toc-d.-picpoc" class="nav-link" data-scroll-target="#d.-picpoc">d.&nbsp;PIC:POC</a></li>
-  <li><a href="#e.-pocpon" id="toc-e.-pocpon" class="nav-link" data-scroll-target="#e.-pocpon">e. POC:PON</a></li>
-  </ul></li>
+  <li><a href="#thesis-code-and-data-visualization" id="toc-thesis-code-and-data-visualization" class="nav-link" data-scroll-target="#thesis-code-and-data-visualization">Thesis Code and Data Visualization</a></li>
   </ul>
 </nav>
     </div>
@@ -172,69 +199,79 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="thesis-code-and-data-visualization" class="level2">
 <h2 class="anchored" data-anchor-id="thesis-code-and-data-visualization">Thesis Code and Data Visualization</h2>
-<p>The below visualizations represent the physiological data collected during the Fall 2024 experiment and analyzed in Winter 2025 for my thesis document. For a full scope of the data and visualizations, view the link in the section above.</p>
-<section id="a.-particulate-inorganic-carbon-pic" class="level3">
-<h3 class="anchored" data-anchor-id="a.-particulate-inorganic-carbon-pic">a. Particulate Inorganic Carbon (PIC)</h3>
-<section id="code" class="level4">
-<h4 class="anchored" data-anchor-id="code">Code</h4>
-</section>
-<section id="visualization" class="level4">
-<h4 class="anchored" data-anchor-id="visualization">Visualization</h4>
-</section>
-<section id="figure-caption" class="level4">
-<h4 class="anchored" data-anchor-id="figure-caption">Figure caption</h4>
-</section>
-</section>
-<section id="b.-particulate-organic-carbon-poc" class="level3">
-<h3 class="anchored" data-anchor-id="b.-particulate-organic-carbon-poc">b. Particulate Organic Carbon (POC)</h3>
-<section id="code-1" class="level4">
-<h4 class="anchored" data-anchor-id="code-1">Code</h4>
-</section>
-<section id="visualization-1" class="level4">
-<h4 class="anchored" data-anchor-id="visualization-1">Visualization</h4>
-</section>
-<section id="figure-caption-1" class="level4">
-<h4 class="anchored" data-anchor-id="figure-caption-1">Figure caption</h4>
-</section>
-</section>
-<section id="c.-particulate-organic-nitrogen-pon" class="level3">
-<h3 class="anchored" data-anchor-id="c.-particulate-organic-nitrogen-pon">c.&nbsp;Particulate Organic Nitrogen (PON)</h3>
-<section id="code-2" class="level4">
-<h4 class="anchored" data-anchor-id="code-2">Code</h4>
-</section>
-<section id="visualization-2" class="level4">
-<h4 class="anchored" data-anchor-id="visualization-2">Visualization</h4>
-</section>
-<section id="figure-caption-2" class="level4">
-<h4 class="anchored" data-anchor-id="figure-caption-2">Figure caption</h4>
-</section>
-</section>
-<section id="d.-picpoc" class="level3">
-<h3 class="anchored" data-anchor-id="d.-picpoc">d.&nbsp;PIC:POC</h3>
-<section id="code-3" class="level4">
-<h4 class="anchored" data-anchor-id="code-3">Code</h4>
-</section>
-<section id="visualization-3" class="level4">
-<h4 class="anchored" data-anchor-id="visualization-3">Visualization</h4>
-</section>
-<section id="figure-caption-3" class="level4">
-<h4 class="anchored" data-anchor-id="figure-caption-3">Figure caption</h4>
-</section>
-</section>
-<section id="e.-pocpon" class="level3">
-<h3 class="anchored" data-anchor-id="e.-pocpon">e. POC:PON</h3>
-<section id="code-4" class="level4">
-<h4 class="anchored" data-anchor-id="code-4">Code</h4>
-</section>
-<section id="visualization-4" class="level4">
-<h4 class="anchored" data-anchor-id="visualization-4">Visualization</h4>
-</section>
-<section id="figure-caption-4" class="level4">
-<h4 class="anchored" data-anchor-id="figure-caption-4">Figure caption</h4>
+<p>The below visualization represents only a small portion of the code written for this project. Specifically, this graph is Total Alkalinity (TA) plotted over time. This data collected was during the Fall 2024 experiment and analyzed in Winter 2025 for my thesis document. For a full scope of the data and visualizations, view the link in the section above.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span> (tidyverse)</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span> (janitor)</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span> (cowplot)</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(ggh4x)</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(viridis)</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(viridisLite)</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(ggpubr)</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>carb_chem <span class="ot">&lt;-</span> <span class="fu">read_csv</span>(<span class="st">"carb_chem_data.csv"</span>) <span class="sc">%&gt;%</span> <span class="co"># reading in csv</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>  <span class="fu">clean_names</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>Here is the code loading the necessary packages and data.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>TA_summ <span class="ot">&lt;-</span> carb_chem <span class="sc">%&gt;%</span> <span class="co"># creating new object from carb_chem data frame</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">select</span>(day, condition, treatment, ta_in_mmol_kg_sw) <span class="sc">%&gt;%</span> <span class="co"># selecting specific parameter</span></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">group_by</span>(day, condition, treatment) <span class="sc">%&gt;%</span> <span class="co"># grouping by day, condition, and treatment</span></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a> <span class="fu">summarise</span>(</span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>    <span class="at">TA_mean =</span> <span class="fu">round</span>(<span class="fu">mean</span>(ta_in_mmol_kg_sw), <span class="dv">2</span>), <span class="co"># calculating mean</span></span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>    <span class="at">TA_sd =</span> <span class="fu">round</span>(<span class="fu">sd</span>(ta_in_mmol_kg_sw), <span class="dv">2</span>), <span class="co"># calculating standard deviation</span></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>    <span class="at">n =</span> <span class="fu">n</span>()</span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>  )</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>This code created a new object called TA_summ, extracting only the TA column in addition to other necessary parameters such as day and treatment.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(<span class="at">data =</span> TA_summ,</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>       <span class="fu">aes</span>(<span class="at">x =</span> <span class="fu">factor</span>(day),</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>           <span class="at">y =</span> TA_mean,</span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>           <span class="at">color =</span> <span class="fu">interaction</span>(treatment, condition),</span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>           <span class="at">linetype =</span> condition,</span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>           <span class="at">group =</span> <span class="fu">interaction</span>(treatment, condition))) <span class="sc">+</span></span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a> <span class="fu">scale_color_manual</span>(</span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a>     <span class="at">values =</span> <span class="fu">c</span>(</span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a>      <span class="st">"bru.abio"</span> <span class="ot">=</span> <span class="st">"violet"</span>,</span>
+<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a>      <span class="st">"bru.bio"</span>  <span class="ot">=</span> <span class="st">"violetred"</span>,</span>
+<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a>      <span class="st">"ctrl.abio"</span> <span class="ot">=</span> <span class="st">"cornflowerblue"</span>,</span>
+<span id="cb3-12"><a href="#cb3-12" aria-hidden="true" tabindex="-1"></a>      <span class="st">"ctrl.bio"</span>  <span class="ot">=</span> <span class="st">"mediumblue"</span></span>
+<span id="cb3-13"><a href="#cb3-13" aria-hidden="true" tabindex="-1"></a>    ),</span>
+<span id="cb3-14"><a href="#cb3-14" aria-hidden="true" tabindex="-1"></a>    <span class="at">labels =</span> <span class="fu">c</span>(</span>
+<span id="cb3-15"><a href="#cb3-15" aria-hidden="true" tabindex="-1"></a>      <span class="st">"bru.abio"</span> <span class="ot">=</span> <span class="st">"Brucite (Abiotic)"</span>,</span>
+<span id="cb3-16"><a href="#cb3-16" aria-hidden="true" tabindex="-1"></a>      <span class="st">"bru.bio"</span>  <span class="ot">=</span> <span class="st">"Brucite (Biotic)"</span>,</span>
+<span id="cb3-17"><a href="#cb3-17" aria-hidden="true" tabindex="-1"></a>      <span class="st">"ctrl.abio"</span> <span class="ot">=</span> <span class="st">"Control (Abiotic)"</span>,</span>
+<span id="cb3-18"><a href="#cb3-18" aria-hidden="true" tabindex="-1"></a>      <span class="st">"ctrl.bio"</span>  <span class="ot">=</span> <span class="st">"Control (Biotic)"</span></span>
+<span id="cb3-19"><a href="#cb3-19" aria-hidden="true" tabindex="-1"></a>    )</span>
+<span id="cb3-20"><a href="#cb3-20" aria-hidden="true" tabindex="-1"></a>  ) <span class="sc">+</span></span>
+<span id="cb3-21"><a href="#cb3-21" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_linetype_manual</span>(</span>
+<span id="cb3-22"><a href="#cb3-22" aria-hidden="true" tabindex="-1"></a>    <span class="at">values =</span> <span class="fu">c</span>(<span class="st">"abio"</span> <span class="ot">=</span> <span class="st">"dotted"</span>, <span class="st">"bio"</span> <span class="ot">=</span> <span class="st">"solid"</span>),</span>
+<span id="cb3-23"><a href="#cb3-23" aria-hidden="true" tabindex="-1"></a>    <span class="at">labels =</span> <span class="fu">c</span>(<span class="st">"abio"</span> <span class="ot">=</span> <span class="st">"Abiotic"</span>, <span class="st">"bio"</span> <span class="ot">=</span> <span class="st">"Biotic"</span>)</span>
+<span id="cb3-24"><a href="#cb3-24" aria-hidden="true" tabindex="-1"></a>  ) <span class="sc">+</span></span>
+<span id="cb3-25"><a href="#cb3-25" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_point</span>(<span class="at">size =</span> <span class="dv">4</span>) <span class="sc">+</span></span>
+<span id="cb3-26"><a href="#cb3-26" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">linewidth =</span> <span class="dv">1</span>) <span class="sc">+</span></span>
+<span id="cb3-27"><a href="#cb3-27" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_errorbar</span>(<span class="fu">aes</span>(<span class="at">ymin =</span> TA_mean <span class="sc">-</span> TA_sd,</span>
+<span id="cb3-28"><a href="#cb3-28" aria-hidden="true" tabindex="-1"></a>                    <span class="at">ymax =</span> TA_mean <span class="sc">+</span> TA_sd),</span>
+<span id="cb3-29"><a href="#cb3-29" aria-hidden="true" tabindex="-1"></a>                <span class="at">width =</span> <span class="fl">0.05</span>,</span>
+<span id="cb3-30"><a href="#cb3-30" aria-hidden="true" tabindex="-1"></a>                <span class="at">linewidth =</span> <span class="dv">1</span>) <span class="sc">+</span></span>
+<span id="cb3-31"><a href="#cb3-31" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">x =</span> <span class="st">"Time (d)"</span>,</span>
+<span id="cb3-32"><a href="#cb3-32" aria-hidden="true" tabindex="-1"></a>       <span class="at">y =</span> <span class="fu">expression</span>(<span class="fu">paste</span>(<span class="st">"Total Alkalinity ("</span>, mu, <span class="st">"mol kg"</span><span class="sc">^</span>{<span class="sc">-</span><span class="dv">1</span>}, <span class="st">")"</span>)),</span>
+<span id="cb3-33"><a href="#cb3-33" aria-hidden="true" tabindex="-1"></a>       <span class="at">color =</span> <span class="st">"Color"</span>,</span>
+<span id="cb3-34"><a href="#cb3-34" aria-hidden="true" tabindex="-1"></a>       <span class="at">linetype =</span> <span class="st">"Line Type"</span>) <span class="sc">+</span></span>
+<span id="cb3-35"><a href="#cb3-35" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_cowplot</span>() <span class="sc">+</span></span>
+<span id="cb3-36"><a href="#cb3-36" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">legend.title =</span> <span class="fu">element_blank</span>())</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="Projects_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>This code plotted my data.</p>
 
 
-</section>
-</section>
 </section>
 
 </main> <!-- /main -->

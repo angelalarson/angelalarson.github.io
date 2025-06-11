@@ -8,10 +8,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - csv.qmd
-      - Projects.qmd
-      - Rugby.qmd
+      - href: about.qmd
+        text: About Me
+      - href: csv.qmd
+        text: Experience
+      - href: Projects.qmd
+        text: Senior Thesis
+      - href: Rugby.qmd
+        text: Fieldwork
 
 format:
   html:
