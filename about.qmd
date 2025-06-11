@@ -7,9 +7,12 @@ I am quite passionate about teaching and mentorship, taking on multiple roles th
 
 ::: {layout-ncol="3"}
 
-![FUERTE fellows collecting deployed camera traps at Valentine Eastern Sierra Reserve.](images/fellows.png){group="about"}
+![FUERTE fellows collecting deployed camera traps at Valentine Eastern Sierra Reserve.](images/fellows1.png){group="about"}
 
 ![The green mineral actinolite from Earth 114 lab period.](images/actinolite.png){group="about"}
+
+![Photo taken with a frog in the Hoover Wilderness, September 2024.](images/frog1.png){group="about"}
+
 :::
 
 ## Rugby
@@ -31,5 +34,5 @@ In my formative years, I attended Two Sentinels Girl Scout Camp, an outdoor back
 
 ![Canoe trip for the UC Santa Barbara outdoor leadership training course, November 2021](images/canoe1.png){group="about"}
 
-![Backpacking along a portion of the PCT near Carson Pass, July 2021](images/backpacking.png){group="cert"}
+![Backpacking along a portion of the PCT near Carson Pass, July 2021](images/backpacking.png){group="about"}
 :::
